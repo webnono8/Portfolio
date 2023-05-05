@@ -6,4 +6,7 @@
 
 .header{
     position: absolute;
+    background-color: grey;
+    width: 20%;
+    height: 100%;
 }
