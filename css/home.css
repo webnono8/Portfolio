@@ -7,3 +7,20 @@
 .navbar{
     color: none;
 }
+
+/*--- ARTICLE DU MOMENT ---*/
+
+#articleDuMoment{
+    position: absolute;
+    left: 20%;
+}
+
+#buttonMoment1{
+    position: absolute;
+    left: 20%;
+    border-radius: 10px;
+    background-color: grey;
+    width: 100%;
+    height: 50%;
+    border: solid grey 1px;
+}
